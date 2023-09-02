@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NixMoritz</h1>
-<h3 align="center">I'm an 18/yo, interested in progamming, IoTs and gaming</h3>
+<h3 align="center">I'm an 19/yo, interested in progamming, IoTs and gaming</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghfweoiliom0xfc1qbjuus93qpe47x9af8jflz8u&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixmoritz&label=Profile%20views&color=0e75b6&style=flat" alt="nixmoritz" /> </p>
 
