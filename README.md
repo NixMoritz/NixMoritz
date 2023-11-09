@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RaptorToDo](https://github.com/soulhollow/ToDo)
 
-- 🌱 I’m currently learning **Java, C# and Python others when i'm proficient**
+- 🌱 I’m currently learning **Java, C#, Go and Python others when i'm proficient**
 
 - 📫 How to reach me **moritz.rothert@gmail.com**
 
