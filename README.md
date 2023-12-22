@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **moritz.rothert@gmail.com**
 
-- My Discord Tag: [nixmoritz](nixmoritz)
+- 🎮 My Discord Tag: [nixmoritz](nixmoritz)
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghfweoiliom0xfc1qbjuus93qpe47x9af8jflz8u&rid=giphy.gif&ct=g">
 
 <p align="left">
