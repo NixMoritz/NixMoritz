@@ -5,8 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixmoritz&label=Profile%20views&color=0e75b6&style=flat" alt="nixmoritz" /> </p>
 
 - 🌱 I’m currently learning **Java, C#, GO, Python, SQL{Oracle Database, Microsoft SQL Server}, Vue**
-
+  
+- 🤝 I’m helping on [osu-progressCLI](https://github.com/JuLi0n21/osu-progressCLI)
+  
 - 📫 How to reach me **moritz.rothert@gmail.com**
+ 
 
 - 🎮 My Discord Tag: [nixmoritz](nixmoritz)
 <img align="right" alt="Coding" width="340" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ghfweoiliom0xfc1qbjuus93qpe47x9af8jflz8u&rid=giphy.gif&ct=g">
