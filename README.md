@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Moritz</h1>
 <h3 align="center">Currently trainee at SchwarzIT</h3>
-<h3 align="center">I'm an 20/yo, interested in progamming, IoTs and gaming</h3>
+<h3 align="center">I'm an 21/yo, interested in progamming, IoTs and gaming</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixmoritz&label=Profile%20views&color=0e75b6&style=flat" alt="nixmoritz" /> </p>
 
 - 🌱 I’m currently learning **Java, C#, GO, Python, SQL{Oracle Database, Microsoft SQL Server}, Vue**
