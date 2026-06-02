@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Java, C#, GO, Python, SQL{Oracle Database, Microsoft SQL Server}, Vue**
   
-- 🤝 I’m helping on [osu-progressCLI](https://github.com/JuLi0n21/osu-progressCLI)
-  
 - 📫 How to reach me **moritz.rothert@gmail.com**
  
 
@@ -31,7 +29,7 @@
 - 🔭 I’m currently working on [RaptorToDo](https://github.com/soulhollow/ToDo)
 
 - 🌱 I’m currently learning **Java, C#, Go and Python others when i'm proficient**
-
+- 🤝 I’m helping on [osu-progressCLI](https://github.com/JuLi0n21/osu-progressCLI)
 - 📫 How to reach me **moritz.rothert@gmail.com**
 
 
